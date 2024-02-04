@@ -2,7 +2,7 @@
 - 👀 I’m interested in web3 
 - 🌱 I’m currently learning 2 make simple dapp
 - 💞️ I’m looking to collaborate on all kind of blockchain projects 
-- 📫 mironikson@gmail.com
+- 📫 jaqbek.eth@gmail.com
 - https://twitter.com/jaqbek_eth
 
 <!---
